@@ -4,7 +4,7 @@
 
 [PHONE]
 
-[CONTACT EMAIL]
+naqisyed@gmail.com
 
 [DATE]
 
